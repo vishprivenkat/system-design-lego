@@ -3,70 +3,70 @@
     "task_id": "b2126752-a95a-4413-a03c-2042ff9a3796",
     "result": "138",
     "status": "completed",
-    "worker_id": "Skyfall-2.local",
+    "worker_id": "myMachine.local",
     "timestamp": 1773860971.6302469
   },
   {
     "task_id": "a332bf49-d41c-4982-8441-0a50581ec910",
     "result": "-12",
     "status": "completed",
-    "worker_id": "Skyfall-2.local",
+    "worker_id": "myMachine.local",
     "timestamp": 1773860971.634509
   },
   {
     "task_id": "1f3aa8fe-f70d-4e98-8f4b-e31f6f228f6a",
     "result": "9604",
     "status": "completed",
-    "worker_id": "Skyfall-2.local",
+    "worker_id": "myMachine.local",
     "timestamp": 1773860971.637828
   },
   {
     "task_id": "3ed5bbfc-4e55-474a-9650-997f0cfee443",
     "result": "2.782608695652174",
     "status": "completed",
-    "worker_id": "Skyfall-2.local",
+    "worker_id": "myMachine.local",
     "timestamp": 1773860971.640958
   },
   {
     "task_id": "589e00f3-34f8-4ebe-aac8-8edeeea4ac07",
     "result": "15",
     "status": "completed",
-    "worker_id": "Skyfall-2.local",
+    "worker_id": "myMachine.local",
     "timestamp": 1773860971.644464
   },
   {
     "task_id": "8a18d931-d98d-4984-a785-045e3554fe19",
     "result": "77",
     "status": "completed",
-    "worker_id": "Skyfall-2.local",
+    "worker_id": "myMachine.local",
     "timestamp": 1773860971.647146
   },
   {
     "task_id": "bea4bb6d-6854-477a-8779-b5d4463e71df",
     "result": "6039",
     "status": "completed",
-    "worker_id": "Skyfall-2.local",
+    "worker_id": "myMachine.local",
     "timestamp": 1773860971.649696
   },
   {
     "task_id": "a1cba8ba-9d82-4551-8116-e484c7ba79ae",
     "result": "0.11578947368421053",
     "status": "completed",
-    "worker_id": "Skyfall-2.local",
+    "worker_id": "myMachine.local",
     "timestamp": 1773860971.6524348
   },
   {
     "task_id": "4ea088e8-5de7-409e-be3b-e27fb2f74cd5",
     "result": "936",
     "status": "completed",
-    "worker_id": "Skyfall-2.local",
+    "worker_id": "myMachine.local",
     "timestamp": 1773860971.654901
   },
   {
     "task_id": "9a465b73-304b-4d7b-a6e7-57a9f00bbd60",
     "result": "2736",
     "status": "completed",
-    "worker_id": "Skyfall-2.local",
+    "worker_id": "myMachine.local",
     "timestamp": 1773860971.657501
   }
 ]
