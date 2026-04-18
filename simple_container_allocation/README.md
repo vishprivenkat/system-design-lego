@@ -213,6 +213,8 @@ Provides high-level orchestration:
 - No automatic rebalancing
 - Machine resources cannot be modified after initialization
 - Container names must be unique across all machines
+- Does not implement lazy delete for containers that have been de-allocated.
+- Uses sorting by `machineId` instead of by capacity. 
 
 ## Future Enhancements
 
